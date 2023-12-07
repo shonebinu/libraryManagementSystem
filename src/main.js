@@ -1,7 +1,7 @@
 "use strict";
 
 const readlineSync = require('readline-sync');
-const BinarySearchTree = require('./binarySearchTree');
+const BinarySearchTree = require('./binarySearchTree.js');
 
 const library = new BinarySearchTree();
 
